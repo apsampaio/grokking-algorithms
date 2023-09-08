@@ -5,6 +5,12 @@
     },
     {
       "path": "1 - introduction to algorithms"
+    },
+    {
+      "path": "3 - recursion"
+    },
+    {
+      "path": "4 - quicksort"
     }
   ]
 }
